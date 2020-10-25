@@ -1,0 +1,1 @@
+docker build -t zeklouis/phalcon-devtools:1.1 -t zeklouis/phalcon-devtools:latest .
